@@ -1,4 +1,6 @@
 
+![Alternate image text](https://i.pinimg.com/originals/41/73/c7/4173c712e28482aaf77e9393dace5746.gif)
+
 # Presentación
 
 El curso de Geometría diferencial I versa sobre todo de la teoría local de curvas y superficies suaves. Se trata de un curso introductorio al estudio de las propiedades geométricas de curvas y superficies diferenciables, siguiendo la filosofía del programa de Erlangen, es decir el estudio de los invariantes bajo cierto grupo de transformaciones, en este curso estudiaremos los invariantes bajo difehomorfismos. El área de la geometría Difrerencial puede tener aplicaciobnes interesantes  a la física y la biología.
