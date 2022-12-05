@@ -1,0 +1,164 @@
+<p>
+	<img alt="" src="https://i.pinimg.com/originals/41/73/c7/4173c712e28482aaf77e9393dace5746.gif" /></p>
+<p>
+	El curso de Geometría diferencial I versa sobre todo de la teoría local de curvas y superficies suaves. Se trata de un curso introductorio al estudio de las propiedades geométricas.</p>
+<h2>
+	Temario</h2>
+<ol>
+	<li aria-level="1" dir="ltr">
+		<p dir="ltr" role="presentation">
+			<span id="docs-internal-guid-ce6f3cf3-7fff-0682-76e6-9fb0f006120a"><span>Curvas diferenciables en el plano y el espacio.</span></span></p>
+		<ol>
+			<li aria-level="2" dir="ltr">
+				<p dir="ltr" role="presentation">
+					<span id="docs-internal-guid-ce6f3cf3-7fff-0682-76e6-9fb0f006120a"><span>Curvas parametrizadas</span></span></p>
+			</li>
+			<li aria-level="2" dir="ltr">
+				<p dir="ltr" role="presentation">
+					<span id="docs-internal-guid-ce6f3cf3-7fff-0682-76e6-9fb0f006120a"><span>Parámetro Longitud de arco</span></span></p>
+			</li>
+			<li aria-level="2" dir="ltr">
+				<p dir="ltr" role="presentation">
+					<span id="docs-internal-guid-ce6f3cf3-7fff-0682-76e6-9fb0f006120a"><span>Torsión y curvatura, Fórmulas de Frenet-Serret.</span></span></p>
+			</li>
+			<li aria-level="2" dir="ltr">
+				<p dir="ltr" role="presentation">
+					<span id="docs-internal-guid-ce6f3cf3-7fff-0682-76e6-9fb0f006120a"><span>La envolvente</span></span></p>
+			</li>
+			<li aria-level="2" dir="ltr">
+				<p dir="ltr" role="presentation">
+					<span id="docs-internal-guid-ce6f3cf3-7fff-0682-76e6-9fb0f006120a"><span>Evolutas.</span></span></p>
+			</li>
+			<li aria-level="2" dir="ltr">
+				<p dir="ltr" role="presentation">
+					<span id="docs-internal-guid-ce6f3cf3-7fff-0682-76e6-9fb0f006120a"><span>Curvas de Frenet en Rn y en el espacio de Minkowski</span></span></p>
+			</li>
+		</ol>
+	</li>
+	<li aria-level="1" dir="ltr">
+		<p dir="ltr" role="presentation">
+			<span id="docs-internal-guid-ce6f3cf3-7fff-0682-76e6-9fb0f006120a"><span>Teoría local de superficies diferenciables . </span></span></p>
+		<ol>
+			<li aria-level="2" dir="ltr">
+				<p dir="ltr" role="presentation">
+					<span id="docs-internal-guid-ce6f3cf3-7fff-0682-76e6-9fb0f006120a"><span>Superficies regulares en el espacio euclidiano</span></span></p>
+			</li>
+			<li aria-level="2" dir="ltr">
+				<p dir="ltr" role="presentation">
+					<span id="docs-internal-guid-ce6f3cf3-7fff-0682-76e6-9fb0f006120a"><span>Coordenadas locales</span></span></p>
+			</li>
+			<li aria-level="2" dir="ltr">
+				<p dir="ltr" role="presentation">
+					<span id="docs-internal-guid-ce6f3cf3-7fff-0682-76e6-9fb0f006120a"><span>Funciones diferenciables entre superficies</span></span></p>
+			</li>
+			<li aria-level="2" dir="ltr">
+				<p dir="ltr" role="presentation">
+					<span id="docs-internal-guid-ce6f3cf3-7fff-0682-76e6-9fb0f006120a"><span>El plano tangente y el haz tangente</span></span></p>
+			</li>
+			<li aria-level="2" dir="ltr">
+				<p dir="ltr" role="presentation">
+					<span id="docs-internal-guid-ce6f3cf3-7fff-0682-76e6-9fb0f006120a"><span>Primera y segunda forma fundamental. Curvatura Gaussiana</span></span></p>
+			</li>
+			<li aria-level="2" dir="ltr">
+				<p dir="ltr" role="presentation">
+					<span id="docs-internal-guid-ce6f3cf3-7fff-0682-76e6-9fb0f006120a"><span>Curvatura Media y superficies mínimas</span></span></p>
+			</li>
+			<li aria-level="2" dir="ltr">
+				<p dir="ltr" role="presentation">
+					<span id="docs-internal-guid-ce6f3cf3-7fff-0682-76e6-9fb0f006120a"><span>Superficies orientables</span></span></p>
+			</li>
+			<li aria-level="2" dir="ltr">
+				<p dir="ltr" role="presentation">
+					<span id="docs-internal-guid-ce6f3cf3-7fff-0682-76e6-9fb0f006120a"><span>Teorema Egregio de Gauss</span></span></p>
+			</li>
+			<li aria-level="2" dir="ltr">
+				<p dir="ltr" role="presentation">
+					<span id="docs-internal-guid-ce6f3cf3-7fff-0682-76e6-9fb0f006120a"><span>Teorema de Gauss-Bonnet . </span></span></p>
+			</li>
+			<li aria-level="2" dir="ltr">
+				<p dir="ltr" role="presentation">
+					<span id="docs-internal-guid-ce6f3cf3-7fff-0682-76e6-9fb0f006120a"><span>Algunas aplicaciones a la física y a la biología.</span></span></p>
+			</li>
+		</ol>
+	</li>
+	<li aria-level="1" dir="ltr">
+		<p dir="ltr" role="presentation">
+			<span id="docs-internal-guid-ce6f3cf3-7fff-0682-76e6-9fb0f006120a"><span>Breve introducción al estudio de variedades diferenciables.</span></span></p>
+		<ol>
+			<li aria-level="2" dir="ltr">
+				<p dir="ltr" role="presentation">
+					<span id="docs-internal-guid-ce6f3cf3-7fff-0682-76e6-9fb0f006120a"><span>Cartas coordenadas y definición de Variedad diferenciable</span></span></p>
+			</li>
+			<li aria-level="2" dir="ltr">
+				<p dir="ltr" role="presentation">
+					<span id="docs-internal-guid-ce6f3cf3-7fff-0682-76e6-9fb0f006120a"><span>Espacio tangente y métricas riemannianas</span></span></p>
+			</li>
+			<li aria-level="2" dir="ltr">
+				<p dir="ltr" role="presentation">
+					<span id="docs-internal-guid-ce6f3cf3-7fff-0682-76e6-9fb0f006120a"><span>Tensores y curvatura</span></span></p>
+			</li>
+			<li aria-level="2" dir="ltr">
+				<p dir="ltr" role="presentation">
+					<span id="docs-internal-guid-ce6f3cf3-7fff-0682-76e6-9fb0f006120a"><span>Espacios de curvatura constante</span></span></p>
+			</li>
+		</ol>
+	</li>
+</ol>
+<h2>
+	Metodología de trabajo</h2>
+<div class="footer container-xl width-full p-responsive" role="contentinfo">
+	<div class="position-relative d-flex flex-row-reverse flex-lg-row flex-wrap flex-lg-nowrap flex-justify-center flex-lg-justify-between pt-6 pb-2 mt-6 f6 text-gray border-top border-gray-light ">
+		<p>
+			Habrán tres sesiones presenciales a la semana lunes, miércoles y viernes. Las ayudantías serán el martes y jueves. Utilizaremos las siguientes plataformas en linea, como auxiliares.</p>
+		<ol>
+			<li>
+				Canal de Youtube <a href="https://www.youtube.com/c/CursosAugustoCabreraBecerril" target="_blank">https://www.youtube.com/c/CursosAugustoCabreraBecerril</a></li>
+			<li>
+				De ser necesario, videoconferencia por jitsi-meet</li>
+			<li>
+				Se utilizará Telegram como medio de comunicación directa con el grupo. La invitación se enviara por clasroom.</li>
+			<li>
+				<p>
+					El material de consulta puede buscarse en el directorio de <a href="https://icedrive.net/s/igygfY4vBbkgFRhByTu157GYDBAB" target="_blank">IceDrive </a> <a href="https://icedrive.net/s/igygfY4vBbkgFRhByTu157GYDBAB" target="_blank"> https://icedrive.net/s/igygfY4vBbkgFRhByTu157GYDBAB</a></p>
+			</li>
+			<li>
+				Los anuncios, las asignaciones y trabajos finales se haran mediante la plataforma classroom. Una vez inscritos en el curso, inscribirse por favor en el clasroom <a href="https://classroom.google.com/c/NTI1MjYwMjA1MTQz?cjc=c6rstwc" target="_blank">https://classroom.google.com/c/NTYyMTEzODMzNjAx?cjc=le5qpm2</a></li>
+			<li>
+				Los ejemplos, las notas y herramientas de computo se pueden consultar en: <a href="https://github.com/acb100cias/ModelacionEpidemicaFC" target="_blank">https://github.com/acb100cias/GeoDifI</a></li>
+		</ol>
+	</div>
+</div>
+<h2>
+	Bibliografía</h2>
+<ul>
+	<li>
+		Michael Spivak <strong><em>A comprehensive course on Diferential Geometry Vol 1-5. </em></strong>Publish or Perish</li>
+	<li>
+		Vladimir G. Ivancevic , Tijana T. Ivancevic .<em><strong> Applied Differential Geometry: A Modern Introduction .</strong></em> World Scientific</li>
+	<li>
+		Francis Borceux. <strong><em>A differential Approach to Geometry.</em></strong> Springer.</li>
+	<li>
+		Manfredo P. DoCarmo <strong><em>Differential Geometry of Curves and Surfaces in R3.</em></strong> Prentice-Hall</li>
+	<li>
+		Oscar Palmas y J. Guadalupe Reyes <em><strong>Curso básico de Geometría Diferencial T1</strong></em>. Las Prensas de Ciencias</li>
+	<li>
+		B. A. Dubrovin, A. T. Fomenko, S. P. Novikov <strong><em>Modern Geometry- Methods and Applications</em></strong>. Springer.</li>
+	<li>
+		Hilbert &amp; Conn-Vossen <strong><em>Geometry and the Imagination</em></strong></li>
+	<li>
+		A. S. Fedenko <strong><em>Problemas de Geometría Diferencial. </em></strong>IPN</li>
+	<li>
+		Wolfgang Kuhnel <strong>Differential geometry: curves-surfaces-manifolds</strong>. American Mathematical Society.</li>
+</ul>
+<h2>
+	Evaluación</h2>
+<ul>
+	<li>
+		<p>
+			2 o 3 tareas-examen</p>
+	</li>
+	<li>
+		<p>
+			Entrega de un trabajo final profundizando sobre algún tema visto en clase o algún problema interesante, pero que sea de interés para el curso. El trabajo consiste de una parte escrita y de haber condiciones una exposición suscinta.</p>
+	</li>
+</ul>
